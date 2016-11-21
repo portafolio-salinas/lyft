@@ -1,4 +1,28 @@
 .portada {
     background-image: url('../img/auto-rapido-facundo-bitsch2.jpg');
-    height: 900px;
-}   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.logo {
+    height: 5%;
+    width: 100%;
+}
+
+img {
+    max-height: 100%;
+    max-width:100%;
+}
+.fondo {
+    background-image: url('../img/ESPERANDO EL TREN.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.welcome {
+    color:  #66ccff;
+}
