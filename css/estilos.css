@@ -1,39 +1,41 @@
-.portada {
-    background-image: url('../img/auto-rapido-facundo-bitsch2.jpg');
+.portada_z {
+    background-image: url('../img/lyft_905.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
 }
-
 .logo {
     height: 5%;
     width: 100%;
-}
-
-img {
-    max-height: 100%;
-    max-width:100%;
 }
 .rosa{
     color: #D50F8D;
 }
 .fondo {
-    background-image: url('../img/ba50c99ca75f9ba9ddfc3a621b8aeb89b7559cbe2bc8148698f7ec26274feec4.jpg');
+    background-image: url('../img/');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 90vh;
+    height: 100vh;
 }
 
 .welcome {
     color:  #66ccff;
     margin-top: 70%;
 }
-.portada_z {
+.portada {
     background-image: url('../img/lyft.1x948.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     height: 100vh;
+}
+html,body {
+    height: 100%
+    margin :0;
+    padding: 0;
+}
+#map {
+    height: 100%;
 }
